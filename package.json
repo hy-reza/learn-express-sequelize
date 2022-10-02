@@ -1,0 +1,20 @@
+{
+  "name": "learn-express-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hy-reza/learn-express-sequelize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hy-reza/learn-express-sequelize/issues"
+  },
+  "homepage": "https://github.com/hy-reza/learn-express-sequelize#readme"
+}
